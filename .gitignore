@@ -1,7 +1,9 @@
-# Idris 2
-*.ttc
-*.ttm
-
-# Idris 1
-*.ibc
-*.o
+/Datasets
+.vscode
+/Test
+/train_result
+/**/__pycache__/
+train_result*.json
+/SaveModel
+/logs*
+.DS_Store
